@@ -19,6 +19,7 @@ A RuneLite sideloaded plugin for the **Rogue Chests** friends chat. It automatic
 The plugin uses the public **OSRS Hiscores API** to look up each member's thieving level. Lookups are queued one at a time to avoid hammering the API. Players whose accounts are not on the hiscores (e.g. very low level or private) are skipped to avoid false positives.
 
 No data is collected, stored, or sent anywhere other than the standard OSRS hiscores API (`secure.runescape.com`).
+<img width="1576" height="997" alt="image" src="https://github.com/user-attachments/assets/4eedd934-2a95-4e7f-a4ba-7dc3e2ca6ec7" />
 
 ---
 
